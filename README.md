@@ -1,4 +1,5 @@
 # miniwhatsapp
+![Screenshot 2024-09-02 113823](https://github.com/user-attachments/assets/3f5f2a9b-de36-4ef2-becd-c4d9c3e57a50)
 
 A new Flutter project.
 
